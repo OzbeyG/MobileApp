@@ -1,0 +1,4 @@
+com\mobile\pages\LoginPage.class
+com\mobile\utils\MobileDriver.class
+com\mobile\runners\MobileAppTest.class
+com\mobile\step_definitions\LoginPageStepDefs.class
